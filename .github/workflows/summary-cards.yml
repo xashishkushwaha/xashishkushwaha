@@ -1,0 +1,21 @@
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # regenerates once a day at midnight UTC
+  workflow_dispatch: {} # lets you trigger it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: xashishkushwaha
+          TEMPLATE: github_dark
+          # other valid options: default, dracula, gruvbox, nord_dark, radical, solarized, 2077, monokai
