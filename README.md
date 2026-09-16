@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashish Kushwaha</h1>
-<h3 align="center">ML/AI Engineer | Building with GenAI, LLMs & RAG</h3>
+<h3 align="center">ML/AI Engineer | Building GenAI, LLMs & RAG, Transformers</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xashishkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="xashishkushwaha" />
   <img src="https://img.shields.io/github/followers/xashishkushwaha?label=Follow&style=social" alt="followers" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xashishkushwaha&theme=algolia&column=7&margin-w=15&margin-h=15" alt="xashishkushwaha" /></a>
-</p>
 
 ---
 
