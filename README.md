@@ -17,7 +17,7 @@
 - 🧩 Solved **600+ DSA problems** — 1540+ on LeetCode, 840+ across Codeforces/GFG/TUF
 - 🏆 Top 15 of 200+ teams at **Smart India Hackathon (SIH) 2023**, Grand Finale qualifier
 - 💬 Ask me about **Machine Learning, NLP & RAG systems**
-- 📫 Reach me at **ashish.47.kushwaha@gmail.com**
+
 - ⚡ Fun fact: **I'm a Powerlifter 🏋️**
 
 ---
