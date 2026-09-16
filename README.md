@@ -60,24 +60,15 @@
 
 ### 📊 GitHub Analytics
 
-> These cards are static SVGs regenerated daily by a GitHub Action and committed straight to this repo — no live third-party API calls, so they never fail to load from rate limiting.
-
 <p align="center">
-  <img width="48%" src="https://raw.githubusercontent.com/xashishkushwaha/xashishkushwaha/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
-  <img width="48%" src="https://raw.githubusercontent.com/xashishkushwaha/xashishkushwaha/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language" />
-</p>
-<p align="center">
-  <img width="48%" src="https://raw.githubusercontent.com/xashishkushwaha/xashishkushwaha/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="most commit language" />
-  <img width="48%" src="https://raw.githubusercontent.com/xashishkushwaha/xashishkushwaha/main/profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
-</p>
-<p align="center">
-  <img width="48%" src="https://raw.githubusercontent.com/xashishkushwaha/xashishkushwaha/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xashishkushwaha&show_icons=true&theme=tokyo-night" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xashishkushwaha&layout=compact&theme=tokyo-night" alt="Top Languages" />
 </p>
 
 ### 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xashishkushwaha&theme=tokyo-night" alt="xashishkushwaha activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xashishkushwaha&theme=tokyo-night" alt="GitHub Streak" />
 </p>
 
 ### 🔥 Commit Graph (Snake Animation)
