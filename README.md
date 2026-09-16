@@ -14,10 +14,15 @@
 
 ### 🚀 About Me
 
+- 🎓 B.Tech in Information Technology @ **Delhi Technological University** (2023–2027), CGPA 8.357
+- 🔬 Former **Research Intern @ IIT Roorkee** — fine-tuned HingRoBERTa for Hinglish hate-speech detection, boosting hate-class recall from 50% to 80%
+- 💼 Former **Software Network Intern @ Springer Capital** — built an HR sentiment-analytics pipeline over 2,100+ internal emails using DistilBERT
 - 🔭 I'm currently working on **[GenAI, LLM, RAG](https://pdf-based-rag-chat-assistant.streamlit.app/)**
 - 🌱 I'm currently learning **LangGraph, AWS Bedrock**
 - 👯 I'm looking to collaborate on **[Hate Speech Detection (Hindi-English Code-Mixed)](https://github.com/xashishkushwaha/Hate-Speech-Detection-on-Hindi-English-Code-Mixed)**
-- 💬 Ask me about **Machine Learning**
+- 🧩 Solved **600+ DSA problems** — 1540+ on LeetCode, 840+ across Codeforces/GFG/TUF
+- 🏆 Top 15 of 200+ teams at **Smart India Hackathon (SIH) 2023**, Grand Finale qualifier
+- 💬 Ask me about **Machine Learning, NLP & RAG systems**
 - 📫 Reach me at **ashish.47.kushwaha@gmail.com**
 - ⚡ Fun fact: **I'm a Powerlifter 🏋️**
 
@@ -83,11 +88,14 @@
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| **PDF-Based RAG Chat Assistant** | Chat with your PDFs using Retrieval-Augmented Generation | Python, LangChain, Streamlit | [Live Demo](https://pdf-based-rag-chat-assistant.streamlit.app/) |
-| **Hate Speech Detection (Hindi-English)** | Detects hate speech in code-mixed Hindi-English text | Python, ML, NLP | [Repo](https://github.com/xashishkushwaha/Hate-Speech-Detection-on-Hindi-English-Code-Mixed) |
-| *Add your next project here* | | | |
+| Project | Description | Tech |
+|---|---|---|
+| 🤖 **[PDF-Based RAG Chat Assistant](https://github.com/xashishkushwaha/PDF-Based-RAG-Chat-Assistant)** | Full-stack RAG chatbot with source-cited answers, streaming responses, and multi-user session isolation | Python, LangChain, LangGraph, Streamlit |
+| 🗣️ **[Hate Speech Detection (Hindi-English)](https://github.com/xashishkushwaha/Hate-Speech-Detection-on-Hindi-English-Code-Mixed)** | Hinglish hate-speech classifier using n-gram/lexicon features + fine-tuned HingRoBERTa, outperforming SVM baseline by 11 F1 points | Python, Scikit-learn, Transformers |
+| 📊 **[Employee Sentiment Analysis](https://github.com/xashishkushwaha/Employee-Sentiment-Analysis)** | End-to-end sentiment pipeline over 2,100+ internal emails using a pretrained DistilBERT transformer | Python, HuggingFace, NLP |
+| 🎨 **[AI Image Generator](https://github.com/xashishkushwaha/AI-Image-Generator)** | Full-stack GenAI web app with auth, DALL·E API integration, and an image export pipeline | JavaScript, OpenAI DALL·E |
+| 📈 **[Ecommerce Sales Dashboard](https://github.com/xashishkushwaha/Ecommerce-Sales-Dashboard)** | Interactive Power BI dashboard tracking revenue, profit, quantity, and AOV across states & categories | Power BI |
+| 📚 **[Journal Management System](https://github.com/xashishkushwaha/Journal-Management-System-)** | Desktop GUI app for managing academic journals, writers, and reviews with full CRUD + keyword search | Python (Tkinter), MySQL |
 
 ---
 
