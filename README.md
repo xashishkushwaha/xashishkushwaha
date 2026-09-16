@@ -63,15 +63,15 @@
 > These cards are static SVGs regenerated daily by a GitHub Action and committed straight to this repo — no live third-party API calls, so they never fail to load from rate limiting.
 
 <p align="center">
-  <img width="48%" src="./profile-summary-card-output/classic/0-profile-details.svg" alt="profile details" />
-  <img width="48%" src="./profile-summary-card-output/classic/1-repos-per-language.svg" alt="repos per language" />
+  <img width="48%" src="https://raw.githubusercontent.com/xashishkushwaha/xashishkushwaha/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
+  <img width="48%" src="https://raw.githubusercontent.com/xashishkushwaha/xashishkushwaha/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language" />
 </p>
 <p align="center">
-  <img width="48%" src="./profile-summary-card-output/classic/2-most-commit-language.svg" alt="most commit language" />
-  <img width="48%" src="./profile-summary-card-output/classic/3-stats.svg" alt="stats" />
+  <img width="48%" src="https://raw.githubusercontent.com/xashishkushwaha/xashishkushwaha/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="most commit language" />
+  <img width="48%" src="https://raw.githubusercontent.com/xashishkushwaha/xashishkushwaha/main/profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
 </p>
 <p align="center">
-  <img width="48%" src="./profile-summary-card-output/classic/4-productive-time.svg" alt="productive time" />
+  <img width="48%" src="https://raw.githubusercontent.com/xashishkushwaha/xashishkushwaha/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time" />
 </p>
 
 ### 📈 Contribution Activity Graph
