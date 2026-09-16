@@ -19,7 +19,6 @@
 - 💼 Former **Software Network Intern @ Springer Capital** — built an HR sentiment-analytics pipeline over 2,100+ internal emails using DistilBERT
 - 🔭 I'm currently working on **[GenAI, LLM, RAG](https://pdf-based-rag-chat-assistant.streamlit.app/)**
 - 🌱 I'm currently learning **LangGraph, AWS Bedrock**
-- 👯 I'm looking to collaborate on **[Hate Speech Detection (Hindi-English Code-Mixed)](https://github.com/xashishkushwaha/Hate-Speech-Detection-on-Hindi-English-Code-Mixed)**
 - 🧩 Solved **600+ DSA problems** — 1540+ on LeetCode, 840+ across Codeforces/GFG/TUF
 - 🏆 Top 15 of 200+ teams at **Smart India Hackathon (SIH) 2023**, Grand Finale qualifier
 - 💬 Ask me about **Machine Learning, NLP & RAG systems**
@@ -61,13 +60,18 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=xashishkushwaha&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="xashishkushwaha stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xashishkushwaha&layout=compact&theme=tokyonight" alt="xashishkushwaha top langs" />
-</p>
+> These cards are static SVGs regenerated daily by a GitHub Action and committed straight to this repo — no live third-party API calls, so they never fail to load from rate limiting.
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xashishkushwaha&theme=tokyonight" alt="xashishkushwaha streak stats" />
+  <img width="48%" src="./profile-summary-card-output/classic/0-profile-details.svg" alt="profile details" />
+  <img width="48%" src="./profile-summary-card-output/classic/1-repos-per-language.svg" alt="repos per language" />
+</p>
+<p align="center">
+  <img width="48%" src="./profile-summary-card-output/classic/2-most-commit-language.svg" alt="most commit language" />
+  <img width="48%" src="./profile-summary-card-output/classic/3-stats.svg" alt="stats" />
+</p>
+<p align="center">
+  <img width="48%" src="./profile-summary-card-output/classic/4-productive-time.svg" alt="productive time" />
 </p>
 
 ### 📈 Contribution Activity Graph
